@@ -1,2 +1,0 @@
-this is the second file to be uploaded.
-second line added to second.txt
